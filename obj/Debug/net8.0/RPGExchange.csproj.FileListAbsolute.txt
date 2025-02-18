@@ -1,0 +1,28 @@
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\bin\Debug\net8.0\RPGExchange.exe
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\bin\Debug\net8.0\RPGExchange.deps.json
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\bin\Debug\net8.0\RPGExchange.runtimeconfig.json
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\bin\Debug\net8.0\RPGExchange.dll
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\bin\Debug\net8.0\RPGExchange.pdb
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.AssemblyInfoInputs.cache
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.AssemblyInfo.cs
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.csproj.CoreCompileInputs.cache
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.dll
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\refint\RPGExchange.dll
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.pdb
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\RPGExchange.genruntimeconfig.cache
+C:\Users\spyridon.pagiatis\OneDrive - PeopleCert Network\Desktop\RPGExchange\obj\Debug\net8.0\ref\RPGExchange.dll
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.AssemblyInfoInputs.cache
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.AssemblyInfo.cs
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.csproj.CoreCompileInputs.cache
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.dll
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\refint\RPGExchange.dll
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.pdb
+C:\Users\spyro\Downloads\RPGExchange\bin\Debug\net8.0\RPGExchange.exe
+C:\Users\spyro\Downloads\RPGExchange\bin\Debug\net8.0\RPGExchange.deps.json
+C:\Users\spyro\Downloads\RPGExchange\bin\Debug\net8.0\RPGExchange.runtimeconfig.json
+C:\Users\spyro\Downloads\RPGExchange\bin\Debug\net8.0\RPGExchange.dll
+C:\Users\spyro\Downloads\RPGExchange\bin\Debug\net8.0\RPGExchange.pdb
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\RPGExchange.genruntimeconfig.cache
+C:\Users\spyro\Downloads\RPGExchange\obj\Debug\net8.0\ref\RPGExchange.dll

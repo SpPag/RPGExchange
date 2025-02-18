@@ -1,0 +1,14 @@
+C:\Coding\Practice\TestProjectForMicrosoftLearn\bin\Debug\net8.0\TestProjectForMicrosoftLearn.exe
+C:\Coding\Practice\TestProjectForMicrosoftLearn\bin\Debug\net8.0\TestProjectForMicrosoftLearn.deps.json
+C:\Coding\Practice\TestProjectForMicrosoftLearn\bin\Debug\net8.0\TestProjectForMicrosoftLearn.runtimeconfig.json
+C:\Coding\Practice\TestProjectForMicrosoftLearn\bin\Debug\net8.0\TestProjectForMicrosoftLearn.dll
+C:\Coding\Practice\TestProjectForMicrosoftLearn\bin\Debug\net8.0\TestProjectForMicrosoftLearn.pdb
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.AssemblyInfoInputs.cache
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.AssemblyInfo.cs
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.csproj.CoreCompileInputs.cache
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.dll
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\refint\TestProjectForMicrosoftLearn.dll
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.pdb
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\TestProjectForMicrosoftLearn.genruntimeconfig.cache
+C:\Coding\Practice\TestProjectForMicrosoftLearn\obj\Debug\net8.0\ref\TestProjectForMicrosoftLearn.dll
